@@ -13,3 +13,5 @@ Lab4 : Memory
 * [Lab4.1](https://github.com/bowipawan/hw-syn-lab/tree/master/lab04x1/lab04x1.srcs)
 * [Lab4.2](https://github.com/bowipawan/hw-syn-lab/tree/master/lab04x2/lab04x2.srcs)
 * [Lab4.3](https://github.com/bowipawan/hw-syn-lab/tree/master/lab04x3/lab04x3.srcs)
+
+[Skill Test](https://github.com/bowipawan/hw-syn-lab/tree/master/skilltest/skilltest.srcs) : Display Birthdate
