@@ -40,6 +40,7 @@ endgenerate
 clockDiv fdivTarget(targetClk,tclk[18]);
 
 // counter
+// 1 sec = 10 ns * 2^27
 wire targetCount;
 wire [26:0] cclk;
 assign cclk[0]=clk;
