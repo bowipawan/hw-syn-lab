@@ -1,5 +1,3 @@
-`timescale 1ns / 1ps
-
 module hexTo7Segment(
     output [6:0] segments,
     input [3:0] hex
