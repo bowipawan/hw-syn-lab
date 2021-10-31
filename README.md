@@ -19,4 +19,8 @@ Lab5 : Simple CPU and Memory Mapped I/O
 * [Lab5.2](https://github.com/bowipawan/hw-syn-lab/tree/master/lab05x2/lab05x2.srcs)
 * [Lab5.3](https://github.com/bowipawan/hw-syn-lab/tree/master/lab05x3/lab05x3.srcs)
 
+Lab6 : VGA and UART
+* [Lab6.1](https://github.com/bowipawan/hw-syn-lab/tree/master/lab06x1/lab06x1.srcs)
+* [Lab6.2](https://github.com/bowipawan/hw-syn-lab/tree/master/lab06x2/lab06x2.srcs)
+
 [Skill Test](https://github.com/bowipawan/hw-syn-lab/tree/master/skilltest/skilltest.srcs) : Display Birthdate

@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module tester(    );
+module tester2(    );
 wire 	[31:0]	p_address;
 reg 	[31:0]	p_data;
 wire	[31:0]	d_address;
